@@ -1,0 +1,44 @@
+.navbar-nav{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+.blogpost{
+    background-color: #f5f5f5;
+    padding: 10px 10px 0px 10px;
+    overflow: hidden;
+}
+
+#heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #005e90;
+}
+
+#heading:hover{
+    color: #0090db;
+}
+
+.description{
+    color: #868686;
+    font-weight: bold;
+    margin-top: -2px;
+}
+
+.post{
+    font-size: 1.1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.btn-info{
+    float: right;
+    margin-bottom: 15px;
+}
+
+.imageicon{
+    max-width: 150px;
+    margin: 0px auto;
+    display: block;
+}
